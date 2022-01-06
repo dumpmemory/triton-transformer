@@ -92,6 +92,10 @@ loss.backward()
 $ python train.py
 ```
 
+## Todo
+
+- [ ] efficient triangular matmul kernel for causal attention
+
 ## Citations
 
 ```bibtex
